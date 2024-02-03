@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.fruits {
+  display: flex;
+}
+
+.fruit {
+  text-decoration: underline;
+  flex: 1;
+  display: space-between;
+}
