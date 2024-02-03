@@ -9,5 +9,7 @@ body {
 .fruit {
   text-decoration: underline;
   flex: 1;
-  display: space-between;
+  display: space-evenly;
+  margin: 20px;
+  inline-size: 5px;
 }
