@@ -2,14 +2,3 @@ body {
   text-align: center;
   background: rgb(230, 171, 171);
 }
-
-.fruits {
-  display: flex;
-}
-
-.fruit {
-  text-decoration: underline;
-  flex: 1;
-  display: space-evenly;
-  margin: 20px;
-}
