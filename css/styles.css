@@ -2,3 +2,7 @@ body {
   text-align: center;
   background: rgb(230, 171, 171);
 }
+
+a {
+  color: green;
+}
